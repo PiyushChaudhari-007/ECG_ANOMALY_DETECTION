@@ -21,6 +21,9 @@ The analysis is conducted using Python and various libraries such as Pandas, Mat
 3. Stationarity Test: Performing Augmented Dickey-Fuller (ADF) test to check the stationarity of the ECG signals.
 
 4. Anomaly Detection: Implementing anomaly detection algorithms such as Z-Score method and ARIMA (AutoRegressive Integrated Moving Average) model to identify abnormal patterns in the ECG signals.
+
+## Visualizations
+
    ![image](https://github.com/PiyushChaudhari-007/ECG_ANOMALY_DETECTION/assets/147206358/b6cf7b93-03d8-47f5-aef5-82eac11aaf19)
    ![image](https://github.com/PiyushChaudhari-007/ECG_ANOMALY_DETECTION/assets/147206358/3b437e8f-1895-4548-b1be-992b4803cb86)
    ![image](https://github.com/PiyushChaudhari-007/ECG_ANOMALY_DETECTION/assets/147206358/e21ddace-f811-461b-8b1e-f3fee79e0f20)
