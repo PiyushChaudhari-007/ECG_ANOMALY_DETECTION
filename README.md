@@ -25,7 +25,6 @@ The analysis is conducted using Python and various libraries such as Pandas, Mat
 ## Visualizations
 
    ![image](https://github.com/PiyushChaudhari-007/ECG_ANOMALY_DETECTION/assets/147206358/b6cf7b93-03d8-47f5-aef5-82eac11aaf19)
-   ![image](https://github.com/PiyushChaudhari-007/ECG_ANOMALY_DETECTION/assets/147206358/3b437e8f-1895-4548-b1be-992b4803cb86)
    ![image](https://github.com/PiyushChaudhari-007/ECG_ANOMALY_DETECTION/assets/147206358/e21ddace-f811-461b-8b1e-f3fee79e0f20)
 
 
@@ -33,7 +32,7 @@ The analysis is conducted using Python and various libraries such as Pandas, Mat
 ## Results
 
 The analysis successfully detects anomalies in the ECG signals, indicating potential cardiac abnormalities. Visualizations and statistical tests provide insights into the nature and severity of these anomalies, aiding in further medical evaluation and treatment.
-
+   ![image](https://github.com/PiyushChaudhari-007/ECG_ANOMALY_DETECTION/assets/147206358/3b437e8f-1895-4548-b1be-992b4803cb86)
 ## Conclusion
 
 Automatic detection of anomalies in ECG signals is crucial for timely diagnosis and intervention in cardiac patients. This project demonstrates the effectiveness of statistical methods and time series modeling in identifying abnormal patterns in ECG data, laying the foundation for future research in cardiac health monitoring and diagnosis.
